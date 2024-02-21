@@ -1,6 +1,6 @@
-function toggleMenu() { 
-    const menu = document.querySelector(".menu-links");
-    const icon = document.querySelector(".hamburger-icon");
-    menu.classList.toggle("open");
-    icon.classList.toggle("open");
+function toggleMenu() {
+    var menuLinks = document.querySelector('.menu-links');
+    var mobileNavButtons = document.getElementById('mobile-nav-buttons');
+    menuLinks.classList.toggle('open');
+    mobileNavButtons.classList.toggle('open'); // Toggle visibility of the mobile nav buttons section
 }

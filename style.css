@@ -434,6 +434,9 @@ footer p {
 /* ... existing styles ... */
 
 /* Style for the new section of mobile navigation buttons */
+/* ... existing styles ... */
+
+/* Style for the new section of mobile navigation buttons */
 .hidden-mobile-nav {
   display: none; /* Hidden by default */
   justify-content: center;

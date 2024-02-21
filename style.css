@@ -430,3 +430,24 @@ footer {
 footer p {
   text-align: center;
 }
+
+/* ... existing styles ... */
+
+/* Style for the new section of mobile navigation buttons */
+.hidden-mobile-nav {
+  display: none; /* Hidden by default */
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+/* Button styles for mobile */
+.btn-mobile {
+  padding: 0.5rem 1rem;
+  border: 1px solid #333; /* Customize as needed */
+  border-radius: 0.5rem;
+  text-decoration: none;
+  color: inherit; /* To use the text color of the parent element */
+}

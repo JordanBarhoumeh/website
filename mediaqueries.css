@@ -45,6 +45,10 @@
     .about-containers {
       margin-top: 0;
     }
+
+    #mobile-nav-buttons {
+      display: flex; /* Make the section visible */
+    }
   }
   
   @media screen and (max-width: 600px) {

@@ -455,3 +455,14 @@ footer p {
   color: inherit; /* To use the text color of the parent element */
 }
 
+
+#mobile-nav-buttons .section__text__p1 {
+  text-align: center;
+}
+
+#mobile-nav-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* ... other styles ... */
+}

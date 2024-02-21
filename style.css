@@ -206,6 +206,10 @@ section {
   gap: 1rem;
 }
 
+.btn-container {
+  margin-top: 1rem;
+}
+
 /* ICONS */
 
 .icon {
@@ -417,7 +421,7 @@ article .icon {
 }
 
 .email-icon {
-  height: 2.5rem;
+  height: 2.4rem;
 }
 
 /* FOOTER SECTION */
